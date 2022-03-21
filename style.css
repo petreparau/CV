@@ -1,0 +1,116 @@
+.c6{
+	border:1px solid rgb(193, 193, 215);
+	border-collapse: collapse;
+	width:1200px;
+	
+}
+#eup {
+	width:250px;
+	height:60px;
+}
+#p1 {
+	 color:rgb(0, 102, 204);
+	 padding:30px;
+	 text-align:left;
+	 font-size:200%;
+	 font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#p2 {
+
+	 color:rgb(0, 102, 204);
+	 text-align:right;
+	 font-size:100%;
+	 font-family:Arial;
+}	
+#p3 {padding:7px;
+	 text-align:left;
+	 font-size:100%;
+	 font-family:Arial;
+}
+#eu {
+	width:230px;
+	height:325px;
+}
+#img1 {
+	width:35px;
+	height:30px;
+}
+#img3 {
+	
+	width:35px;
+	height:30px;
+}
+#imd2 {
+	width:35px;
+	height:30px;
+}
+#p4 {
+	 padding:7px;
+	 text-align:left;
+	 font-size:100%;
+	 font-family:Arial;
+}	
+#p5{padding:7px;
+	text-align:left;
+	font-size:100%;
+	font-family:Arial;}
+.c3 {
+	 color:rgb(0, 102, 204);
+	 text-align:right;
+	 font-size:100%;
+	 font-family:Arial;
+}	
+#p6 {
+	 padding:7px;
+	 text-align:left;
+	 font-size:100%;
+	 font-family:Arial;
+}	
+.c1 { 
+     margin:0px;
+	 text-align:left;
+	 font-size:100%;
+	 font-family:Arial;
+	 padding:0px;
+     margin-bottom: 0px;
+	 margin-left:1.5em;
+	
+}
+.c2 { 
+     margin:0px;
+	 text-align:left;
+	 font-size:100%;
+	 font-family:Arial;
+	 padding:0px;
+     margin-bottom:0px;
+	 margin-left:1.5em;
+	
+}
+
+
+.c5 {
+	 color:rgb(0, 102, 204);
+	 text-align:right;
+	 font-size:100%;
+	 font-family:Arial;
+	 text-align:center;
+	 
+}
+.c7 { 
+     margin:0px;
+	 text-align:center;
+	 font-size:100%;
+	 font-family:Arial;
+	 padding:0px;
+     margin-bottom:0px;
+}
+.cb{
+border-color:rgb(0, 102, 204);
+}
+.ct {
+	 height:45px;
+	 color:rgb(0, 102, 204);
+	 text-align:right;
+	 font-size:105%;
+	 font-family:Arial;
+}
